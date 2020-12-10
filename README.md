@@ -4,7 +4,7 @@
 
 ##### 偏产品：
 1.鸟哥笔记：https://www.niaogebiji.com/ 
-2.人人都是产品经理：http://www.woshipm.com/ </br>
+2.人人都是产品经理：http://www.woshipm.com/ <br/>
 3.ebrun：https://www.ebrun.com/
 
 ##### 偏技术：
