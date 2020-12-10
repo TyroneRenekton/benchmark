@@ -3,8 +3,8 @@
 目前主要在积累数量，可能细分等都不够精确
 
 ##### 偏产品：
-1.鸟哥笔记：https://www.niaogebiji.com/  
-2.人人都是产品经理：http://www.woshipm.com/ 
+1.鸟哥笔记：https://www.niaogebiji.com/ 
+2.人人都是产品经理：http://www.woshipm.com/ </br>
 3.ebrun：https://www.ebrun.com/
 
 ##### 偏技术：
